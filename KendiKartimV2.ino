@@ -19,7 +19,7 @@
 
 
 #define FIREBASE_HOST "haber-a2d51-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "2e9Mlx7JJ3Ydi9tyUjhBUhJhk8irqaJ1R2ZJa3pn"
+#define FIREBASE_AUTH "*************************************"
 #define WIFI_SSID "SUPERONLINE_Wi-Fi_6551"
 #define WIFI_PASSWORD "*********"
 #define Role D3
